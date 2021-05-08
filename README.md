@@ -66,7 +66,6 @@ UK is the home country of the vast majority of customers. In order to see from w
 Besides UK, the countryes with majos sales values are Netherlands, Ireland and German.
 
 ![spends_no_UK_by_country](https://user-images.githubusercontent.com/71295866/117546169-7c306600-afff-11eb-838c-f1ccd96d1cf6.png)
-![scatter_spends_by_cluster](https://user-images.githubusercontent.com/71295866/117546199-9f5b1580-afff-11eb-927f-e04073ad892d.png)
 
 ### Machine Learning Model Selection
 
